@@ -1,22 +1,56 @@
   "ranges": {
-    "Australian Department of Parliamentary Services": [
-      ["164.75.0.0", "164.75.15.255"],
-      ["202.14.81.0", "202.14.81.255"]
+    "Tweede Kamer": [
+      ["62.58.80.96", "62.58.80.127"]
     ],
-    "Parliament of Western Australia": [
-      ["203.26.90.0", "203.26.91.255"]
+    "Publieke Omroep": [
+      ["145.58.0.0", "145.58.255.255"]
     ],
-    "Parliament of New South Wales": [
-      ["203.31.230.0", "203.31.231.255"]
+    "Provincie Utrecht": [
+      ["193.173.48.16" , "193.173.48.31"]
     ],
-    "Parliament of Victoria": [
-      ["203.16.24.0", "203.16.25.255"],
-      ["203.33.151.0", "203.33.151.255"]
+    "Provincie Noord-Brabant": [
+      ["193.173.111.0", "193.173.111.255"]
     ],
-    "Parliament of Tasmania": [
-      ["147.109.254.170", "147.109.254.170"]
+    "Provincie Noord-Holland": [
+      ["80.242.238.96", "80.242.238.127"]
     ],
-    "Parliament of Queensland": [
-      ["203.63.228.128", "203.63.228.255"]
+    "Provincie Groningen": [
+      ["194.13.8.0", "194.13.14.255"]
+    ],
+    "Provincie Gelderland": [
+      ["213.126.138.192", "213.126.138.255"]
+    ],
+    "Provincie Overijsel": [
+      ["194.104.99.0", "194.104.99.255"]
+    ],
+    "Provincie Flevoland": [
+      ["213.160.196.224", "213.160.196.255"]
+    ],
+    "Ministerie van Justitie": [
+      ["159.46.0.0", "159.46.255.255"]
+    ],
+    "Ministerie van V&W": [
+      ["145.50.0.0", "145.50.255.255"]
+    ],
+    "Ministerie van VROM": [
+      ["147.181.0.0", "147.181.255.255"]
+    ],
+    "Gemeente Maastricht": [
+      ["212.54.32.0", "212.54.63.255"]
+    ],
+    "Gemeente Den Haag": [
+      [" 217.68.48.0", "217.68.52.223"]
+    ],
+    "Gemeente Utrecht": [
+      ["195.193.167.0", "195.193.167.255"]
+    ],
+    "Gemeente Wieringermeer": [
+      ["80.242.237.180", "80.242.237.183"]
+    ],
+    "Gemeente Eindhoven": [
+      ["212.61.55.32", "212.61.55.63"]
+    ],
+    "Gemeente Amsterdam": [
+      ["193.172.13.240", "193.172.13.255"]
     ]
-    }
+  }
